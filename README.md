@@ -40,12 +40,12 @@ LiveBook: https://livebook.manning.com/book/spring-in-action-sixth-edition/welco
 | 12 - Developing reactive APIs | 未开始 |
 | 13 - Persisting data reactively | 未开始 |
 | 14 - Working with RSocket | 未开始 |
-| 15 - Working with Spring Boot Actuator | 已完成 |
+| 15 - Working with Spring Boot Actuator | **已完成** |
 | 16 - Administering Spring | 未开始 |
 | 17 - Monitoring Spring with JMX | 未开始 |
 | 18 - Deploying Spring | 进行中 |
 
-GitHub地址：[git@github.com:LeonLi0102/spring-in-action-v6-translate.git](git@github.com:LeonLi0102/spring-in-action-v6-translate.git)
+GitHub地址：[https://github.com/LeonLi0102/spring-in-action-v6-translate.git](https://github.com/LeonLi0102/spring-in-action-v6-translate.git)
 
 GitBook地址：[https://leonli0102.github.io/spring-in-action-v6/](https://leonli0102.github.io/spring-in-action-v6/)
 
