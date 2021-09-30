@@ -1,0 +1,20 @@
+{
+	"title": "Spring In Action",
+	"author": "Craig Walls",
+	"plugins": [
+		"-search",
+		"search-pro",
+		"back-to-top-button",
+		"chapter-fold",
+		"code",
+		"copy-code-button",
+		"pageview-count",
+		"auto-scroll-table",
+		"popup" 
+	],
+	"pluginsConfig": {
+		"github": {
+			"url": "https://leonli0102.github.io/spring-in-action-v6-translate/"
+		}
+	}
+}
