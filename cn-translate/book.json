@@ -19,9 +19,6 @@
 
 	],
 	"pluginsConfig": {
-		"theme-default": {
-            "showLevel": true
-        },
         "fontSettings": {
 			"theme": "white", 
             "family": "serif",
