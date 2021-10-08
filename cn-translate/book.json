@@ -1,6 +1,7 @@
 {
 	"title": "Spring In Action",
 	"author": "Craig Walls",
+	"language" : "zh-hans",
 	"plugins": [
 		"-search",
 		"search-pro",
@@ -10,11 +11,29 @@
 		"copy-code-button",
 		"pageview-count",
 		"auto-scroll-table",
-		"popup" 
+		"popup",
+		"theme-comscore",
+		"prism",
+		"-highlight",
+		"fontsettings"
+
 	],
 	"pluginsConfig": {
-		"github": {
-			"url": "https://leonli0102.github.io/spring-in-action-v6-translate/"
-		}
+		"theme-default": {
+            "showLevel": true
+        },
+        "fontSettings": {
+			"theme": "white", 
+            "family": "serif",
+            "size": 4
+        },
+        "github": {
+            "url": "https://leonli0102.github.io/spring-in-action-v6-translate/"
+        },
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-tomorrow.css"
+            ]
+        }
 	}
 }
