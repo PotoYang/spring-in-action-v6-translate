@@ -38,7 +38,7 @@ LiveBook: https://livebook.manning.com/book/spring-in-action-sixth-edition/welco
 | 11 - Introducing Reactor | 未开始 |
 | 12 - Developing reactive APIs | 未开始 |
 | 13 - Persisting data reactively | 未开始 |
-| 14 - Working with RSocket | 未开始 |
+| 14 - Working with RSocket |  **已完成** |
 | 15 - Working with Spring Boot Actuator | **已完成** |
 | 16 - Administering Spring | **已完成** |
 | 17 - Monitoring Spring with JMX | **已完成** |
